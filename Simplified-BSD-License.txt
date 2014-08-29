@@ -1,4 +1,3 @@
-Isaac Genome Alignment Software
 Copyright (c) 2010-2014 Illumina, Inc.
 All rights reserved.
 
